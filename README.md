@@ -13,7 +13,7 @@ Esamz AI focuses on:
 Main AI: https://esamz.site  
 Information Site: https://esamz.info  
 Docs: https://about-esamz.vercel.app  
-
+privacy policy : https://privacy-policy-one-navy.vercel.app/
 ## Mission
 To create the next generation of human-aligned intelligence.
 
